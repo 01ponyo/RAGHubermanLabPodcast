@@ -1,4 +1,4 @@
-# Science-based Tools For Everyday Life RAG System (Huberman’s Lab-based)
+# Science-based Tools For Everyday Life RAG System (Huberman’s Lab-based) *ONGOING*
 
 # Idea
 
