@@ -1,0 +1,643 @@
+{
+  "total_episodes": 106,
+  "total_chunks": 3539,
+  "avg_chunks_per_episode": 33.386792452830186,
+  "episodes_info": [
+    {
+      "episode": "002",
+      "title": "How Your Brain Works & Changes",
+      "chunks": 17,
+      "content_length": 59356
+    },
+    {
+      "episode": "003",
+      "title": "Master Your Sleep & Be More Alert When Awake",
+      "chunks": 23,
+      "content_length": 80346
+    },
+    {
+      "episode": "004",
+      "title": "Using Science to Optimize Sleep, Learning & Metabolism",
+      "chunks": 27,
+      "content_length": 98266
+    },
+    {
+      "episode": "005",
+      "title": "Find Your Temperature Minimum to Defeat Jetlag, Shift Work & Sleeplessness",
+      "chunks": 30,
+      "content_length": 105434
+    },
+    {
+      "episode": "006",
+      "title": "Understanding and Using Dreams to Learn and to Forget",
+      "chunks": 20,
+      "content_length": 72624
+    },
+    {
+      "episode": "007",
+      "title": "How to Focus to Change Your Brain",
+      "chunks": 24,
+      "content_length": 84925
+    },
+    {
+      "episode": "008",
+      "title": "Using Failures, Movement & Balance to Learn Faster",
+      "chunks": 24,
+      "content_length": 84206
+    },
+    {
+      "episode": "009",
+      "title": "Optimize Your Learning & Creativity with Science-based Tools",
+      "chunks": 25,
+      "content_length": 87973
+    },
+    {
+      "episode": "010",
+      "title": "Control Pain & Heal Faster with Your Brain",
+      "chunks": 25,
+      "content_length": 89909
+    },
+    {
+      "episode": "011",
+      "title": "Tools for Managing Stress & Anxiety",
+      "chunks": 27,
+      "content_length": 95472
+    },
+    {
+      "episode": "012",
+      "title": "How Foods and Nutrients Control Our Moods",
+      "chunks": 28,
+      "content_length": 100377
+    },
+    {
+      "episode": "013",
+      "title": "How to Increase Motivation & Drive",
+      "chunks": 24,
+      "content_length": 85453
+    },
+    {
+      "episode": "014",
+      "title": "The Science of Emotions & Relationships",
+      "chunks": 26,
+      "content_length": 93652
+    },
+    {
+      "episode": "015",
+      "title": "Biological Influences On Sex, Sex Differences & Preferences",
+      "chunks": 24,
+      "content_length": 86927
+    },
+    {
+      "episode": "016",
+      "title": "The Science of How to Optimize Testosterone & Estrogen",
+      "chunks": 31,
+      "content_length": 117768
+    },
+    {
+      "episode": "017",
+      "title": "How Our Hormones Control Our Hunger, Eating & Satiety",
+      "chunks": 26,
+      "content_length": 94546
+    },
+    {
+      "episode": "018",
+      "title": "How to Control Your Metabolism by Thyroid & Growth Hormone",
+      "chunks": 27,
+      "content_length": 97920
+    },
+    {
+      "episode": "019",
+      "title": "Using Cortisol & Adrenaline to Boost Our Energy & Immune System",
+      "chunks": 28,
+      "content_length": 98936
+    },
+    {
+      "episode": "020",
+      "title": "Supercharge Exercise Performance & Recovery with Cooling",
+      "chunks": 22,
+      "content_length": 77511
+    },
+    {
+      "episode": "021",
+      "title": "How to Learn Skills Faster",
+      "chunks": 29,
+      "content_length": 104040
+    },
+    {
+      "episode": "022",
+      "title": "How to Lose Fat with Science-Based Tools",
+      "chunks": 28,
+      "content_length": 100617
+    },
+    {
+      "episode": "023",
+      "title": "Science of Muscle Growth, Increasing Strength & Muscular Recovery",
+      "chunks": 33,
+      "content_length": 119994
+    },
+    {
+      "episode": "024",
+      "title": "How To Build Endurance In Your Brain & Body",
+      "chunks": 33,
+      "content_length": 117815
+    },
+    {
+      "episode": "025",
+      "title": "The Science of Vision, Eye Health & Seeing Better",
+      "chunks": 30,
+      "content_length": 105558
+    },
+    {
+      "episode": "026",
+      "title": "How Smell, Taste & Pheromone-Like Chemicals Control You",
+      "chunks": 31,
+      "content_length": 109662
+    },
+    {
+      "episode": "027",
+      "title": "Dr. Karl Deisseroth_ Understanding & Healing the Mind",
+      "chunks": 31,
+      "content_length": 109348
+    },
+    {
+      "episode": "028",
+      "title": "The Science of Hearing, Balance & Accelerated Learning",
+      "chunks": 32,
+      "content_length": 114828
+    },
+    {
+      "episode": "029",
+      "title": "Maximizing Productivity, Physical & Mental Health with Daily Tools",
+      "chunks": 34,
+      "content_length": 123252
+    },
+    {
+      "episode": "030",
+      "title": "Dr. Lex Fridman_ Machines, Creativity & Love",
+      "chunks": 46,
+      "content_length": 157454
+    },
+    {
+      "episode": "031",
+      "title": "How to Optimize Your Brain-Body Function & Health",
+      "chunks": 31,
+      "content_length": 109607
+    },
+    {
+      "episode": "032",
+      "title": "Dr. Matthew Walker_ The Science & Practice of Perfecting Your Sleep",
+      "chunks": 48,
+      "content_length": 168704
+    },
+    {
+      "episode": "033",
+      "title": "How to Control Your Sense of Pain & Pleasure",
+      "chunks": 35,
+      "content_length": 126542
+    },
+    {
+      "episode": "034",
+      "title": "Dr. Anna Lembke_ Understanding & Treating Addiction",
+      "chunks": 32,
+      "content_length": 109521
+    },
+    {
+      "episode": "035",
+      "title": "Understanding & Conquering Depression",
+      "chunks": 27,
+      "content_length": 98242
+    },
+    {
+      "episode": "036",
+      "title": "Dr. Robert Sapolsky_ Science of Stress, Testosterone & Free Will",
+      "chunks": 27,
+      "content_length": 98242
+    },
+    {
+      "episode": "037",
+      "title": "Healthy Eating & Eating Disorders – Anorexia, Bulimia, Binging",
+      "chunks": 27,
+      "content_length": 98242
+    },
+    {
+      "episode": "038",
+      "title": "ADHD & How Anyone Can Improve Their Focus",
+      "chunks": 27,
+      "content_length": 98242
+    },
+    {
+      "episode": "039",
+      "title": "Dr. Matthew Johnson_ Psychedelic Medicine",
+      "chunks": 27,
+      "content_length": 98242
+    },
+    {
+      "episode": "040",
+      "title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction",
+      "chunks": 34,
+      "content_length": 126976
+    },
+    {
+      "episode": "041",
+      "title": "Dr. Craig Heller_ Using Temperature for Performance, Brain & Body Health",
+      "chunks": 28,
+      "content_length": 96926
+    },
+    {
+      "episode": "042",
+      "title": "Effects of Fasting & Time Restricted Eating on Fat Loss & Health",
+      "chunks": 39,
+      "content_length": 139514
+    },
+    {
+      "episode": "043",
+      "title": "Nutrients For Brain Health & Performance",
+      "chunks": 26,
+      "content_length": 93477
+    },
+    {
+      "episode": "044",
+      "title": "Dr. Samer Hattar_ Timing Light, Food, & Exercise for Better Sleep, Energy & Mood",
+      "chunks": 37,
+      "content_length": 127597
+    },
+    {
+      "episode": "045",
+      "title": "Using Your Nervous System to Enhance Your Immune System",
+      "chunks": 31,
+      "content_length": 111159
+    },
+    {
+      "episode": "046",
+      "title": "Dr. Duncan French_ How to Exercise for Strength Gains & Hormone Optimization",
+      "chunks": 25,
+      "content_length": 89465
+    },
+    {
+      "episode": "047",
+      "title": "Time Perception & Entrainment by Dopamine, Serotonin & Hormones",
+      "chunks": 20,
+      "content_length": 69712
+    },
+    {
+      "episode": "048",
+      "title": "The Science of Gratitude & How to Build a Gratitude Practice",
+      "chunks": 22,
+      "content_length": 82020
+    },
+    {
+      "episode": "049",
+      "title": "Dr. David Buss_ How Humans Select & Keep Romantic Partners in Short & Long Term",
+      "chunks": 32,
+      "content_length": 112007
+    },
+    {
+      "episode": "050",
+      "title": "Erasing Fears & Traumas Based on the Modern Neuroscience of Fear",
+      "chunks": 33,
+      "content_length": 122834
+    },
+    {
+      "episode": "051",
+      "title": "Dr. David Berson_ Your Brain’s Logic & Function",
+      "chunks": 30,
+      "content_length": 103760
+    },
+    {
+      "episode": "052",
+      "title": "Science of Social Bonding in Family, Friendship & Romantic Love",
+      "chunks": 25,
+      "content_length": 91654
+    },
+    {
+      "episode": "053",
+      "title": "Dr. David Sinclair_ The Biology of Slowing & Reversing Aging",
+      "chunks": 35,
+      "content_length": 122636
+    },
+    {
+      "episode": "054",
+      "title": "The Science of Making & Breaking Habits",
+      "chunks": 32,
+      "content_length": 112208
+    },
+    {
+      "episode": "055",
+      "title": "Dr. Jack Feldman_ Breathing for Mental & Physical Health & Performance",
+      "chunks": 33,
+      "content_length": 114596
+    },
+    {
+      "episode": "056",
+      "title": "The Science of Setting & Achieving Goals",
+      "chunks": 31,
+      "content_length": 112756
+    },
+    {
+      "episode": "057",
+      "title": "Dr. Alia Crum_ Science of Mindsets for Health & Performance",
+      "chunks": 25,
+      "content_length": 88814
+    },
+    {
+      "episode": "058",
+      "title": "Optimizing Workspace for Productivity, Focus, & Creativity",
+      "chunks": 30,
+      "content_length": 105732
+    },
+    {
+      "episode": "059",
+      "title": "Using Play to Rewire & Improve Your Brain",
+      "chunks": 29,
+      "content_length": 104408
+    },
+    {
+      "episode": "060",
+      "title": "The Science of Love, Desire and Attachment",
+      "chunks": 38,
+      "content_length": 139662
+    },
+    {
+      "episode": "061",
+      "title": "Dr. David Spiegel_ Using Hypnosis to Enhance Mental & Physical Health & Performance",
+      "chunks": 30,
+      "content_length": 105833
+    },
+    {
+      "episode": "062",
+      "title": "How to Enhance Your Gut Microbiome for Brain & Overall Health",
+      "chunks": 30,
+      "content_length": 109246
+    },
+    {
+      "episode": "063",
+      "title": "Dr. Justin Sonnenburg_ How to Build, Maintain & Repair Gut Health",
+      "chunks": 36,
+      "content_length": 127914
+    },
+    {
+      "episode": "064",
+      "title": "Using Salt to Optimize Mental & Physical Performance",
+      "chunks": 33,
+      "content_length": 118498
+    },
+    {
+      "episode": "065",
+      "title": "Controlling Sugar Cravings & Metabolism with Science-Based Tools",
+      "chunks": 32,
+      "content_length": 115378
+    },
+    {
+      "episode": "066",
+      "title": "Dr. Andy Galpin_ How to Build Strength, Muscle Size & Endurance",
+      "chunks": 63,
+      "content_length": 222992
+    },
+    {
+      "episode": "067",
+      "title": "Using Deliberate Cold Exposure for Health and Performance",
+      "chunks": 36,
+      "content_length": 132537
+    },
+    {
+      "episode": "068",
+      "title": "Dr. Kyle Gillett_ How to Optimize Your Hormones for Health & Vitality",
+      "chunks": 46,
+      "content_length": 167454
+    },
+    {
+      "episode": "069",
+      "title": "Using Light (Sunlight, Blue Light & Red Light) to Optimize Health",
+      "chunks": 38,
+      "content_length": 138252
+    },
+    {
+      "episode": "070",
+      "title": "The Science & Health Benefits of Deliberate Heat Exposure",
+      "chunks": 32,
+      "content_length": 112016
+    },
+    {
+      "episode": "071",
+      "title": "Dr. Rhonda Patrick_ Micronutrients for Health & Longevity",
+      "chunks": 48,
+      "content_length": 167063
+    },
+    {
+      "episode": "072",
+      "title": "Understanding & Controlling Aggression",
+      "chunks": 23,
+      "content_length": 85589
+    },
+    {
+      "episode": "073",
+      "title": "Understand & Improve Memory Using Science-Based Tools",
+      "chunks": 35,
+      "content_length": 126999
+    },
+    {
+      "episode": "074",
+      "title": "Dr. Wendy Suzuki_ Boost Attention & Memory with Science-Based Tools",
+      "chunks": 27,
+      "content_length": 92921
+    },
+    {
+      "episode": "075",
+      "title": "The Science & Process of Healing from Grief",
+      "chunks": 33,
+      "content_length": 117950
+    },
+    {
+      "episode": "076",
+      "title": "Dr. Paul Conti_ Therapy, Treating Trauma & Other Life Challenges",
+      "chunks": 41,
+      "content_length": 139056
+    },
+    {
+      "episode": "077",
+      "title": "Improve Flexibility with Research-Supported Stretching Protocols",
+      "chunks": 34,
+      "content_length": 122399
+    },
+    {
+      "episode": "078",
+      "title": "Ido Portal_ The Science & Practice of Movement",
+      "chunks": 35,
+      "content_length": 124725
+    },
+    {
+      "episode": "079",
+      "title": "The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
+      "chunks": 42,
+      "content_length": 153545
+    },
+    {
+      "episode": "080",
+      "title": "Jeff Cavaliere_ Optimize Your Exercise Program with Science-Based Tools",
+      "chunks": 51,
+      "content_length": 169931
+    },
+    {
+      "episode": "081",
+      "title": "Optimize & Control Your Brain Chemistry to Improve Health & Performance",
+      "chunks": 35,
+      "content_length": 128091
+    },
+    {
+      "episode": "082",
+      "title": "Dr. Charles Zuker_ The Biology of Taste Perception & Sugar Craving",
+      "chunks": 29,
+      "content_length": 101270
+    },
+    {
+      "episode": "083",
+      "title": "The Science & Treatment of Bipolar Disorder",
+      "chunks": 37,
+      "content_length": 139014
+    },
+    {
+      "episode": "084",
+      "title": "Dr. Emily Balcetis_ Tools for Setting & Achieving Goals",
+      "chunks": 29,
+      "content_length": 100788
+    },
+    {
+      "episode": "085",
+      "title": "Sleep Toolkit_ Tools for Optimizing Sleep & Sleep-Wake Timing",
+      "chunks": 31,
+      "content_length": 107818
+    },
+    {
+      "episode": "086",
+      "title": "Dr. Peter Attia_ Exercise, Nutrition, Hormones for Vitality & Longevity",
+      "chunks": 48,
+      "content_length": 169349
+    },
+    {
+      "episode": "087",
+      "title": "What Alcohol Does to Your Body, Brain & Health",
+      "chunks": 34,
+      "content_length": 121608
+    },
+    {
+      "episode": "088",
+      "title": "Dr. Erich Jarvis_ The Neuroscience of Speech, Language & Music",
+      "chunks": 29,
+      "content_length": 100908
+    },
+    {
+      "episode": "089",
+      "title": "Focus Toolkit_ Tools to Improve Your Focus & Concentration",
+      "chunks": 32,
+      "content_length": 117411
+    },
+    {
+      "episode": "090",
+      "title": "Dr. David Anderson_ The Biology of Aggression, Mating & Arousal",
+      "chunks": 27,
+      "content_length": 98385
+    },
+    {
+      "episode": "091",
+      "title": "Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping",
+      "chunks": 32,
+      "content_length": 117021
+    },
+    {
+      "episode": "092",
+      "title": "Dr. Casey Halpern_ Biology & Treatments for Compulsive Eating & Behaviors",
+      "chunks": 35,
+      "content_length": 124436
+    },
+    {
+      "episode": "093",
+      "title": "The Effects of Cannabis (Marijuana) on the Brain & Body",
+      "chunks": 43,
+      "content_length": 160258
+    },
+    {
+      "episode": "094",
+      "title": "Dr. Nolan Williams_ Psychedelics & Neurostimulation for Brain Rewiring",
+      "chunks": 44,
+      "content_length": 155151
+    },
+    {
+      "episode": "095",
+      "title": "Fitness Toolkit_ Protocol & Tools to Optimize Physical Health",
+      "chunks": 35,
+      "content_length": 121893
+    },
+    {
+      "episode": "096",
+      "title": "Dr. Eddie Chang_ The Science of Learning & Speaking Languages",
+      "chunks": 38,
+      "content_length": 135463
+    },
+    {
+      "episode": "097",
+      "title": "How Meditation Works & Science-Based Effective Meditations",
+      "chunks": 41,
+      "content_length": 145897
+    },
+    {
+      "episode": "098",
+      "title": "Dr. Layne Norton_ The Science of Eating for Health, Fat Loss & Lean Muscle",
+      "chunks": 63,
+      "content_length": 223551
+    },
+    {
+      "episode": "099",
+      "title": "Science-Based Tools for Increasing Happiness",
+      "chunks": 39,
+      "content_length": 141517
+    },
+    {
+      "episode": "100",
+      "title": "Dr. Chris Palmer_ Diet & Nutrition for Mental Health",
+      "chunks": 42,
+      "content_length": 155432
+    },
+    {
+      "episode": "101",
+      "title": "Dr. Lex Fridman_ Navigating Conflict, Finding Purpose & Maintaining Drive",
+      "chunks": 41,
+      "content_length": 143431
+    },
+    {
+      "episode": "102",
+      "title": "Using Caffeine to Optimize Mental & Physical Performance",
+      "chunks": 38,
+      "content_length": 137464
+    },
+    {
+      "episode": "103",
+      "title": "Dr. Kyle Gillett_ Tools for Hormone Optimization in Males",
+      "chunks": 37,
+      "content_length": 135783
+    },
+    {
+      "episode": "104",
+      "title": "The Science of Creativity & How to Enhance Creative Innovation",
+      "chunks": 38,
+      "content_length": 139820
+    },
+    {
+      "episode": "105",
+      "title": "Jocko Willink_ How to Become Resilient, Forge Your Identity & Lead Others",
+      "chunks": 73,
+      "content_length": 247008
+    },
+    {
+      "episode": "106",
+      "title": "Dr. Sam Harris_ Using Meditation to Focus, View Consciousness & Expand Your Mind",
+      "chunks": 70,
+      "content_length": 244176
+    },
+    {
+      "episode": "107",
+      "title": "Developing a Rational Approach to Supplementation for Health & Performance",
+      "chunks": 33,
+      "content_length": 122891
+    }
+  ]
+}

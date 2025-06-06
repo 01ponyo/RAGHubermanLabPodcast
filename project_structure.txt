@@ -1,0 +1,133 @@
+.
+├── Huberman Lab Podcast Episode Files
+│   ├── EP002 - How Your Brain Works & Changes.docx
+│   ├── EP003 - Master Your Sleep & Be More Alert When Awake.docx
+│   ├── EP004 - Using Science to Optimize Sleep, Learning & Metabolism.docx
+│   ├── EP005 - Find Your Temperature Minimum to Defeat Jetlag, Shift Work & Sleeplessness.docx
+│   ├── EP006 - Understanding and Using Dreams to Learn and to Forget.docx
+│   ├── EP007 - How to Focus to Change Your Brain.docx
+│   ├── EP008 - Using Failures, Movement & Balance to Learn Faster.docx
+│   ├── EP009 - Optimize Your Learning & Creativity with Science-based Tools.docx
+│   ├── EP010 - Control Pain & Heal Faster with Your Brain.docx
+│   ├── EP011 - Tools for Managing Stress & Anxiety.docx
+│   ├── EP012 - How Foods and Nutrients Control Our Moods.docx
+│   ├── EP013 - How to Increase Motivation & Drive.docx
+│   ├── EP014 - The Science of Emotions & Relationships.docx
+│   ├── EP015 - Biological Influences On Sex, Sex Differences & Preferences.docx
+│   ├── EP016 - The Science of How to Optimize Testosterone & Estrogen.docx
+│   ├── EP017 - How Our Hormones Control Our Hunger, Eating & Satiety.docx
+│   ├── EP018 - How to Control Your Metabolism by Thyroid & Growth Hormone.docx
+│   ├── EP019 - Using Cortisol & Adrenaline to Boost Our Energy & Immune System.docx
+│   ├── EP020 - Supercharge Exercise Performance & Recovery with Cooling.docx
+│   ├── EP021 - How to Learn Skills Faster.docx
+│   ├── EP022 - How to Lose Fat with Science-Based Tools.docx
+│   ├── EP023 - Science of Muscle Growth, Increasing Strength & Muscular Recovery.docx
+│   ├── EP024 - How To Build Endurance In Your Brain & Body.docx
+│   ├── EP025 - The Science of Vision, Eye Health & Seeing Better.docx
+│   ├── EP026 - How Smell, Taste & Pheromone-Like Chemicals Control You.docx
+│   ├── EP027 - Dr. Karl Deisseroth_ Understanding & Healing the Mind.docx
+│   ├── EP028 - The Science of Hearing, Balance & Accelerated Learning.docx
+│   ├── EP029 - Maximizing Productivity, Physical & Mental Health with Daily Tools.docx
+│   ├── EP030 - Dr. Lex Fridman_ Machines, Creativity & Love.docx
+│   ├── EP031 - How to Optimize Your Brain-Body Function & Health.docx
+│   ├── EP032 - Dr. Matthew Walker_ The Science & Practice of Perfecting Your Sleep.docx
+│   ├── EP033 - How to Control Your Sense of Pain & Pleasure.docx
+│   ├── EP034 - Dr. Anna Lembke_ Understanding & Treating Addiction.docx
+│   ├── EP035 - Understanding & Conquering Depression.docx
+│   ├── EP036 - Dr. Robert Sapolsky_ Science of Stress, Testosterone & Free Will.docx
+│   ├── EP037 - Healthy Eating & Eating Disorders – Anorexia, Bulimia, Binging.docx
+│   ├── EP038 - ADHD & How Anyone Can Improve Their Focus.docx
+│   ├── EP039 - Dr. Matthew Johnson_ Psychedelic Medicine.docx
+│   ├── EP040 - Controlling Your Dopamine For Motivation, Focus & Satisfaction.docx
+│   ├── EP041 - Dr. Craig Heller_ Using Temperature for Performance, Brain & Body Health.docx
+│   ├── EP042 - Effects of Fasting & Time Restricted Eating on Fat Loss & Health.docx
+│   ├── EP043 - Nutrients For Brain Health & Performance.docx
+│   ├── EP044 - Dr. Samer Hattar_ Timing Light, Food, & Exercise for Better Sleep, Energy & Mood.docx
+│   ├── EP045 - Using Your Nervous System to Enhance Your Immune System.docx
+│   ├── EP046 - Dr. Duncan French_ How to Exercise for Strength Gains & Hormone Optimization.docx
+│   ├── EP047 - Time Perception & Entrainment by Dopamine, Serotonin & Hormones.docx
+│   ├── EP048 - The Science of Gratitude & How to Build a Gratitude Practice.docx
+│   ├── EP049 - Dr. David Buss_ How Humans Select & Keep Romantic Partners in Short & Long Term.docx
+│   ├── EP050 - Erasing Fears & Traumas Based on the Modern Neuroscience of Fear.docx
+│   ├── EP051 - Dr. David Berson_ Your Brain’s Logic & Function.docx
+│   ├── EP052 - Science of Social Bonding in Family, Friendship & Romantic Love.docx
+│   ├── EP053 - Dr. David Sinclair_ The Biology of Slowing & Reversing Aging.docx
+│   ├── EP054 - The Science of Making & Breaking Habits.docx
+│   ├── EP055 - Dr. Jack Feldman_ Breathing for Mental & Physical Health & Performance.docx
+│   ├── EP056 - The Science of Setting & Achieving Goals.docx
+│   ├── EP057 - Dr. Alia Crum_ Science of Mindsets for Health & Performance.docx
+│   ├── EP058 - Optimizing Workspace for Productivity, Focus, & Creativity.docx
+│   ├── EP059 - Using Play to Rewire & Improve Your Brain.docx
+│   ├── EP060 - The Science of Love, Desire and Attachment.docx
+│   ├── EP061 - Dr. David Spiegel_ Using Hypnosis to Enhance Mental & Physical Health & Performance.docx
+│   ├── EP062 - How to Enhance Your Gut Microbiome for Brain & Overall Health.docx
+│   ├── EP063 - Dr. Justin Sonnenburg_ How to Build, Maintain & Repair Gut Health.docx
+│   ├── EP064 - Using Salt to Optimize Mental & Physical Performance.docx
+│   ├── EP065 - Controlling Sugar Cravings & Metabolism with Science-Based Tools.docx
+│   ├── EP066 - Dr. Andy Galpin_ How to Build Strength, Muscle Size & Endurance.docx
+│   ├── EP067 - Using Deliberate Cold Exposure for Health and Performance.docx
+│   ├── EP068 - Dr. Kyle Gillett_ How to Optimize Your Hormones for Health & Vitality.docx
+│   ├── EP069 - Using Light (Sunlight, Blue Light & Red Light) to Optimize Health.docx
+│   ├── EP070 - The Science & Health Benefits of Deliberate Heat Exposure.docx
+│   ├── EP071 - Dr. Rhonda Patrick_ Micronutrients for Health & Longevity.docx
+│   ├── EP072 - Understanding & Controlling Aggression.docx
+│   ├── EP073 - Understand & Improve Memory Using Science-Based Tools.docx
+│   ├── EP074 - Dr. Wendy Suzuki_ Boost Attention & Memory with Science-Based Tools.docx
+│   ├── EP075 - The Science & Process of Healing from Grief.docx
+│   ├── EP076 - Dr. Paul Conti_ Therapy, Treating Trauma & Other Life Challenges.docx
+│   ├── EP077 - Improve Flexibility with Research-Supported Stretching Protocols.docx
+│   ├── EP078 - Ido Portal_ The Science & Practice of Movement.docx
+│   ├── EP079 - The Science & Treatment of Obsessive Compulsive Disorder (OCD).docx
+│   ├── EP080 - Jeff Cavaliere_ Optimize Your Exercise Program with Science-Based Tools.docx
+│   ├── EP081 - Optimize & Control Your Brain Chemistry to Improve Health & Performance.docx
+│   ├── EP082 - Dr. Charles Zuker_ The Biology of Taste Perception & Sugar Craving.docx
+│   ├── EP083 - The Science & Treatment of Bipolar Disorder.docx
+│   ├── EP084 - Dr. Emily Balcetis_ Tools for Setting & Achieving Goals.docx
+│   ├── EP085 - Sleep Toolkit_ Tools for Optimizing Sleep & Sleep-Wake Timing.docx
+│   ├── EP086 - Dr. Peter Attia_ Exercise, Nutrition, Hormones for Vitality & Longevity.docx
+│   ├── EP087 - What Alcohol Does to Your Body, Brain & Health.docx
+│   ├── EP088 - Dr. Erich Jarvis_ The Neuroscience of Speech, Language & Music.docx
+│   ├── EP089 - Focus Toolkit_ Tools to Improve Your Focus & Concentration.docx
+│   ├── EP090 - Dr. David Anderson_ The Biology of Aggression, Mating & Arousal.docx
+│   ├── EP091 - Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping.docx
+│   ├── EP092 - Dr. Casey Halpern_ Biology & Treatments for Compulsive Eating & Behaviors.docx
+│   ├── EP093 - The Effects of Cannabis (Marijuana) on the Brain & Body.docx
+│   ├── EP094 - Dr. Nolan Williams_ Psychedelics & Neurostimulation for Brain Rewiring.docx
+│   ├── EP095 - Fitness Toolkit_ Protocol & Tools to Optimize Physical Health.docx
+│   ├── EP096 - Dr. Eddie Chang_ The Science of Learning & Speaking Languages.docx
+│   ├── EP097 - How Meditation Works & Science-Based Effective Meditations.docx
+│   ├── EP098 - Dr. Layne Norton_ The Science of Eating for Health, Fat Loss & Lean Muscle.docx
+│   ├── EP099 - Science-Based Tools for Increasing Happiness.docx
+│   ├── EP100 - Dr. Chris Palmer_ Diet & Nutrition for Mental Health.docx
+│   ├── EP101 - Dr. Lex Fridman_ Navigating Conflict, Finding Purpose & Maintaining Drive.docx
+│   ├── EP102 - Using Caffeine to Optimize Mental & Physical Performance.docx
+│   ├── EP103 - Dr. Kyle Gillett_ Tools for Hormone Optimization in Males.docx
+│   ├── EP104 - The Science of Creativity & How to Enhance Creative Innovation.docx
+│   ├── EP105 - Jocko Willink_ How to Become Resilient, Forge Your Identity & Lead Others.docx
+│   ├── EP106 - Dr. Sam Harris_ Using Meditation to Focus, View Consciousness & Expand Your Mind.docx
+│   └── EP107 - Developing a Rational Approach to Supplementation for Health & Performance.docx
+├── IRproject_old.ipynb
+├── README.md
+├── data_indexed_old.ipynb
+├── evaluation_dataset.ipynb
+├── project_structure.txt
+├── requirements.txt
+└── src
+    ├── LLM_reranker.py
+    ├── __init__.py
+    ├── data_indexing.py
+    ├── data_preprocessing.py
+    ├── gradio_interface.py
+    ├── podcast_index
+    │   ├── bm25.pkl
+    │   └── faiss_index.bin
+    ├── processed_data
+    │   ├── chunks_dataset.csv
+    │   ├── chunks_dataset.json
+    │   ├── processed_episodes.json
+    │   └── processing_summary.json
+    ├── prompts.py
+    ├── response_generator.py
+    └── retriever.py
+
+5 directories, 126 files
