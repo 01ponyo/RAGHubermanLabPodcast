@@ -40,3 +40,18 @@ Main features:
 - **Response Generation**: Creates comprehensive answers with episode citations
 
 
+## Quick start
+### Prerequisites
+- OpenAI API account
+
+### Step-by-Step Setup
+
+1. Clone repository
+2. Create virtual environment: python -m venv .venv
+3. Activate environment: source .venv/bin/activate
+4. Install requirements: pip install -r requirements.txt
+5. Get OpenAI API key
+6. Create .env file: echo "OPENAI_API_KEY=your-key" > src/.env
+7. Run: python src/gradio_interface.py
+
+
