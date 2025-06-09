@@ -28,6 +28,8 @@ This system processes Andrew Huberman's podcast transcripts and provides accurat
 - Nutrition and supplementation
 - Stress management and mental health
 
+Data was found on: https://www.reddit.com/r/HubermanLab/comments/zq7mkd/dr_hubermans_huberman_lab_podcasts_transcribed/
+
 ## Architecture
 
 Main features:
